@@ -61,7 +61,7 @@ core-header-panel {
 background-color: #{{ site.data.colors.primary2 }};
 }
 html /deep/ core-toolbar {
-background-color: #{{ site.data.colors.primary3 }};
+background-color: #{{ site.data.colors.primary4 }};
 display: -webkit-box;
 display: -webkit-flex;
 display: -ms-flexbox;
