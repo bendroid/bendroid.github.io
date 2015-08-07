@@ -100,3 +100,7 @@ color: #{{ site.data.colors.white }};
 .download-button {
 margin-left: 16px;
 }
+.header-img {
+border-radius: 50%;
+width: 100%;
+}
